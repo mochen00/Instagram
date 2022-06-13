@@ -9,8 +9,11 @@ print ('4:hello world')
 print ('5:hello world')
 print ('6:hello world')
 print ('7:hello world')
+<<<<<<< Updated upstream
 print ('8:hello world')
 print ('10:hello world')
 
 
 
+=======
+>>>>>>> Stashed changes
